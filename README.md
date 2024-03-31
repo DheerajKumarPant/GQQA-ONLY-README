@@ -8,6 +8,6 @@ Grain Quality and Quantity Assessment
 ![Demo](https://github.com/DheerajKumarPant/GQQA-ONLY-README-/blob/main/GQQA.gif)
 
 ### Below is short demo of its working
-![Demo](https://github.com/DheerajKumarPant/GQQA-ONLY-README/blob/main/Demo.mp4)
+![](https://github.com/DheerajKumarPant/GQQA-ONLY-README/blob/main/Demo.mp4)
 
 
